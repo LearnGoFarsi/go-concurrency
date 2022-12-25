@@ -1,0 +1,13 @@
+Go Concurrency Patterns (video) presents the basics of Go’s concurrency primitives and several ways to apply them.Advanced Go Concurrency Patterns (video) covers more complex uses of Go’s primitives, especially select Douglas McIlroy’s paper Squinting at Power Series shows how Go-like concurrency provides elegant support for complex calculations.
+
+Go Concurrency Patterns (video) presents the basics of Go’s concurrency primitives and several ways to apply them.Advanced Go Concurrency Patterns (video) covers more complex uses of Go’s primitives, especially select Douglas McIlroy’s paper Squinting at Power Series shows how Go-like concurrency provides elegant support for complex calculations.
+
+Go Concurrency Patterns (video) presents the basics of Go’s concurrency primitives and several ways to apply them.Advanced Go Concurrency Patterns (video) covers more complex uses of Go’s primitives, especially select Douglas McIlroy’s paper Squinting at Power Series shows how Go-like concurrency provides elegant support for complex calculations.
+
+Go Concurrency Patterns (video) presents the basics of Go’s concurrency primitives and several ways to apply them.Advanced Go Concurrency Patterns (video) covers more complex uses of Go’s primitives, especially select Douglas McIlroy’s paper Squinting at Power Series shows how Go-like concurrency provides elegant support for complex calculations.
+
+Go Concurrency Patterns (video) presents the basics of Go’s concurrency primitives and several ways to apply them.Advanced Go Concurrency Patterns (video) covers more complex uses of Go’s primitives, especially select Douglas McIlroy’s paper Squinting at Power Series shows how Go-like concurrency provides elegant support for complex calculations.
+
+Go Concurrency Patterns (video) presents the basics of Go’s concurrency primitives and several ways to apply them.Advanced Go Concurrency Patterns (video) covers more complex uses of Go’s primitives, especially select Douglas McIlroy’s paper Squinting at Power Series shows how Go-like concurrency provides elegant support for complex calculations.
+
+Go Concurrency Patterns (video) presents the basics of Go’s concurrency primitives and several ways to apply them.Advanced Go Concurrency Patterns (video) covers more complex uses of Go’s primitives, especially select Douglas McIlroy’s paper Squinting at Power Series shows how Go-like concurrency provides elegant support for complex calculations.
