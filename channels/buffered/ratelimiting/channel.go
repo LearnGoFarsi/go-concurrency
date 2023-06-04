@@ -38,8 +38,8 @@ func main() {
 	go func() {
 		for dir := range dirs {
 			wg.Add(1)
+			tokens <- struct{}{}
 			go func(dir string) {
-				tokens <- struct{}{}
 				countFiles(dir)
 			}(dir)
 		}
